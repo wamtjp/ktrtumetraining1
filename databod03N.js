@@ -1,0 +1,22 @@
+var Ttesuu = 7;
+var databoardP = new Array(10);
+var dataMotiP = new Array(15);
+var correctanswer = new Array(30);
+for (var i=0; i<15; i++) { dataMotiP[i] = ""; }
+	databoardP[1]=" * -OU *  *  *  *  *  *  * ";
+	databoardP[2]="-KY *  *  *  *  *  *  *  * ";
+	databoardP[3]="-FU-FU-FU-FU *  *  *  *  * ";
+	databoardP[4]=" *  *  *  *  *  *  *  *  * ";
+	databoardP[5]=" *  *  *  *  *  *  *  *  * ";
+	databoardP[6]=" *  *  *  *  *  *  *  *  * ";
+	databoardP[7]=" *  *  *  *  *  *  *  *  * ";
+	databoardP[8]=" *  *  *  *  *  *  *  *  * ";
+	databoardP[9]=" *  *  *  *  *  *  *  *  * ";
+	dataMotiP[1]="+00HI00KI00KI";
+	correctanswer[1] = "0061HI";
+	correctanswer[2] = "0071KI";
+	correctanswer[3] = "0091KI";
+	correctanswer[4] = "8172OU";
+	correctanswer[5] = "0062KI";
+	correctanswer[6] = "7162GI";
+	correctanswer[7] = "6181RY";

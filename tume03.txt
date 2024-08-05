@@ -1,0 +1,18 @@
+Read:V2.2
+Read:N+‚ ‚È‚½
+Read:N-ssp
+Read:P-00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU
+Read:P1 *  *  *  *  *  *  *  *  * 
+Read:P2 *  *  *  *  *  *  * -OU * 
+Read:P3 *  *  *  *  * +KA-GI-FU-FU
+Read:P4 *  *  *  *  *  * -FU *  * 
+Read:P5 *  *  *  *  *  *  *  *  * 
+Read:P6 *  *  *  *  *  *  *  *  * 
+Read:P7 *  *  *  *  *  *  *  *  * 
+Read:P8 *  *  *  *  *  *  *  *  * 
+Read:P9 *  *  *  *  *  *  *  *  * 
+Read:P+00KI00KI
+0 :V2.2
+1 :N+‚ ‚È‚½
+2 :N-ssp
+3 :P-00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU00FU
